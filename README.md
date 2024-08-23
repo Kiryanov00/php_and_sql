@@ -1,5 +1,5 @@
 # php_and_sql
-Совместная работа баз данных и сайта
+Совместная работа баз данных и сайта (mail: serezha.kiryanov.00@mail.ru)
 
 1 Шаг: Для создания баз данных вам нужно начать работать с любой СУБД. Я работал в системе phpmyadmin через openserver.
 То есть вам нужно установить openserver, вот инструкция: https://timeweb.com/ru/community/articles/ustanovka-i-nastroyka-openserver
